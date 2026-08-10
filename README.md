@@ -1,52 +1,47 @@
-<h1 align="center"> DevLinks </h1>
+# DevLinks
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+![Prévia do projeto DevLinks](.github/preview.png)
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+O DevLinks é uma página responsiva que reúne meus principais links e redes sociais em um só lugar. O projeto conta com temas claro e escuro, troca de imagem de perfil de acordo com o tema selecionado e armazenamento da preferência do usuário no navegador.
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## Funcionalidades
 
-<br>
+- Alternância entre os modos claro e escuro
+- Preferência de tema salva com `localStorage`
+- Imagem de perfil adaptada ao tema selecionado
+- Layout responsivo para celulares e computadores
+- Links para redes sociais e perfil do GitHub
+- Animações e efeitos de interação
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
-</p>
+## Tecnologias
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
+- HTML5
+- CSS3
 - JavaScript
-- Git e Github
-- Figma
+- Git e GitHub
 
-## 💻 Projeto
+## Como executar
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+1. Clone este repositório:
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+   ```bash
+   git clone https://github.com/M20190113745/Projeto.git
+   ```
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+2. Acesse a pasta do projeto:
 
-## 🔖 Layout
+   ```bash
+   cd Projeto
+   ```
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+3. Abra o arquivo `index.html` no navegador. Se preferir, utilize a extensão Live Server no VS Code.
 
-## :memo: Licença
+## Aprendizados
 
-Esse projeto está sob a licença MIT.
+Durante o desenvolvimento, pratiquei responsividade com media queries, variáveis CSS, manipulação do DOM, eventos em JavaScript e persistência de dados com `localStorage`.
 
----
+## Autor
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Desenvolvido por [José Daniel](https://github.com/M20190113745).
+
+Projeto desenvolvido durante o programa Discover da [Rocketseat](https://www.rocketseat.com.br/).
