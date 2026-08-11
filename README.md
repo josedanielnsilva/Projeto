@@ -42,6 +42,6 @@ Durante o desenvolvimento, pratiquei responsividade com media queries, variávei
 
 ## Autor
 
-Desenvolvido por [José Daniel](https://github.com/M20190113745).
+Desenvolvido por [José Daniel](https://github.com/josedanielnsilva).
 
 Projeto desenvolvido durante o programa Discover da [Rocketseat](https://www.rocketseat.com.br/).
