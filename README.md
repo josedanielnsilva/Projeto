@@ -25,7 +25,7 @@ O DevLinks é uma página responsiva que reúne meus principais links e redes so
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/M20190113745/Projeto.git
+   git clone https://github.com/josedanielnsilva/linktree.git
    ```
 
 2. Acesse a pasta do projeto:
